@@ -1,1 +1,1 @@
-# Welcome to my githyb machine learning projects
+# Welcome to my github machine learning projects
